@@ -1,0 +1,7 @@
+boto3
+fastapi
+uvicorn
+requests
+pymongo
+pyyaml
+tqdm
