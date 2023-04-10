@@ -6,3 +6,4 @@ pymongo
 pyyaml
 tqdm
 python-dotenv
+python-multipart
